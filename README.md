@@ -2,7 +2,7 @@
 
 Full Stack Developer with background in electronics
 
-- I'm based in India.
+- I'm based in India and currently staying in the United States.
 - My portfolio is under construction
 - You can contact me at [laxmipnglri@gmail.com](mailto:laxmipnglri@gmail.com)
 - Enjoys integrating AI in websites using OpenAI APIs.
