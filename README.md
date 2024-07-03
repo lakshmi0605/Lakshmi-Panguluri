@@ -28,7 +28,7 @@ Full Stack Developer with background in electronics
 <a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Spring Framework" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="GraphQL" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Next.js" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354112/nextjs.svg" alt="" width="30" height="30" style="background-color: white"/></a>&nbsp;&nbsp;
+<a href="" title="Next.js" target="_blank" rel="noreferrer"><span style="background-color: #777BB4;"><img src="https://www.svgrepo.com/show/354112/nextjs.svg" alt="" width="30" height="30"/></span></a>&nbsp;&nbsp;
 
 ### Socials
 <a href="https://www.linkedin.com/in/lakshmi-panguluri/" title="lakshmi-panguluri" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30" style=/></a>&nbsp;&nbsp;
