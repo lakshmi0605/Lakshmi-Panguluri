@@ -1,4 +1,4 @@
-## Hi👋 My name is Lakshmi
+## Hi👋  My name is Lakshmi
 
 Full Stack Developer with background in electronics
 
