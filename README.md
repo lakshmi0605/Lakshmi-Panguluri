@@ -4,7 +4,7 @@ Full Stack Developer with background in electronics
 
 - I'm based in India and currently staying in the United States.
 - Check out my portfolio at [https://lakshmi-panguluri.vercel.app/](https://lakshmi-panguluri.vercel.app/)
-- You can contact me at [laxmipnglri@gmail.com](mailto:laxmipnglri@gmail.com)
+- You can contact me at [lakshmipanguluri98@gmail.com](mailto:lakshmipanguluri98@gmail.com)
 - Enjoys integrating AI in websites using OpenAI APIs.
 - Open to collaborating on volunteering and open-source projects
 
